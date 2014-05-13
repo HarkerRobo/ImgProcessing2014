@@ -1,0 +1,9 @@
+#ignore these files:
+
+.userprefs$
+/bin
+/obj
+.dll$
+.sln$
+.exe$
+.orig$
